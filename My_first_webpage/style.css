@@ -1,0 +1,31 @@
+h2{
+  font-size : 70px; margin-left : 120px;
+  border-bottom: 1px black;
+  font-family : serif; font-weight: bolder;
+  padding-bottom: 10px;
+}
+dl{
+  font-size : 40px;
+  border-bottom : 2px solid black;
+  text-align: right;
+  margin-bottom:0;
+}
+hb{
+  display:block; margin-top: 300px;
+}
+hhb{
+  display:block; margin-top: 100px;
+}
+p{
+  margin-left: 10px;
+}
+a{
+  align-content : center;
+}
+img{
+  display:block ; margin:auto;
+}
+
+body{
+  margin:0;
+}
